@@ -1,2 +1,0 @@
-# Divitae
-WIP
